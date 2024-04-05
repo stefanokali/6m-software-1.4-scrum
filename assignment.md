@@ -8,7 +8,10 @@ Scenario 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
-Your answer here
+
+Implementing Scrum methodology can significantly enhance the productivity of the school's IT team by providing a structured framework for managing projects and fostering collaboration. Scrum breaks down complex tasks into smaller, manageable units called sprints, typically lasting two to four weeks. 
+Scrum promotes collaboration and cross-functional teamwork. By organizing the team into small, self-managing units, Scrum encourages individuals to collaborate closely and leverage each other's strengths. This collaborative approach fosters innovation and creativity, as team members brainstorm solutions and share expertise to overcome challenges.
+Overall, implementing Scrum can help the school's IT team improve productivity by fostering transparency, flexibility, continuous improvement, and collaboration. By embracing Scrum principles and practices, the IT team can streamline their processes, deliver projects more efficiently, and ultimately better support the technology needs of the school community.
 ```
 
 Scenario 2:
