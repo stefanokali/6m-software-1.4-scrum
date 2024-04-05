@@ -15,7 +15,16 @@ Scenario 2:
 Write ten (10) user stories for a book-borrowing website for a library. Write it in the format: `As a ____, I want to ____, so that _____`.
 
 ```
-Your answers here
+As a librarian and guest, I want to know where book are stored, so that its easy to find books when needed.
+As a librarian, I want to know how many books are in the library and how many are being borrowed, so that I know where each book is.
+As a guest, I want to know deadline for borrowing book, so that I know when I need to return.
+As a guest, I want to see trending books, so that I know what books people are reading.
+As a guest, I want to queue for books, so that when the books are returned then I got the chance to borrow it.
+As a librarian, I want to know be able to add new books, so that when more books are added it can be recorded.
+As a guest, I want to see books rating, so that I know which books are good.
+As a guest, I want to be able to extend my membership through web, so that I dont need to go physically.
+As a librarian, I want to have automatic penalty system for those books which are returned late, so that I dont need to manually confirm if books are late.
+As a guest, I want to be able to rent ebooks, so that I dont need to go physically.
 ```
 
 
